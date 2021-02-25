@@ -1,0 +1,1 @@
+{{trans('messages.yourpassword')}} {{ $password }}

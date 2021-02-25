@@ -1,0 +1,1 @@
+{{trans('messages.EntertheTokentoresetyourpassword')}}: {{ $token }}

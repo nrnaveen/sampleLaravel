@@ -1,0 +1,1 @@
+Your {{$type}} exported by {{$by}}.
